@@ -832,4 +832,8 @@ DjangoFast ApiReact.JsPythonFlask
 Python FrameworkSQL
 
 RAG Response:
-<img width="1920" height="1080" alt="Screenshot from 2026-05-16 22-38-27" src="https://github.com/user-attachments/assets/13c87111-e3bf-4678-9058-071a5fa4e006" />
+<img width="1842" height="1003" alt="Screenshot from 2026-05-16 22-42-53" src="https://github.com/user-attachments/assets/706926ce-b9bc-4140-9ea1-ffb70791a0d9" />
+
+Over All UI:
+<img width="1591" height="1000" alt="Screenshot from 2026-05-16 22-42-31" src="https://github.com/user-attachments/assets/3e75cdfb-3491-4a36-b820-2d96345f2259" />
+
